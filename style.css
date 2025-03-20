@@ -1,3 +1,7 @@
 body{
-    background-color: lightgreen;
+    background-color: springgreen;
+}
+h1 {
+    fontcstyle: italic;
+    color: green;
 }
