@@ -1,10 +1,23 @@
 body{
     background-color: springgreen;
+    text-align: center;
 }
 h1 {
     fontcstyle: italic;
     color: green;
+    font-size: larger;
+}
+h2 { 
+    color:rgb(14,229,157);
+    font-weight: 200;
 }
 .imagem{
-    width: 60%
+    width: 60%;
+}
+.imagem2 {
+    widht:40%;
+}
+.lista {
+    text-align: left;
+    color:aquamarine
 }
