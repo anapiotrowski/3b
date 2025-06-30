@@ -1,5 +1,5 @@
 body{
-    background-color: springgreen;
+    background-color: green;
     text-align: center;
 }
 h1 {
@@ -8,7 +8,7 @@ h1 {
     font-size: larger;
 }
 h2 { 
-    color:rgb(14,229,157);
+    color:green
     font-weight: 200;
 }
 .imagem{
@@ -19,5 +19,8 @@ h2 {
 }
 .lista {
     text-align: left;
-    color:aquamarine
+    color: green;
+}
+.pizza {
+    color: green;
 }
